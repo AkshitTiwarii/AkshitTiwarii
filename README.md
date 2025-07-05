@@ -39,11 +39,31 @@
 ---
 
 ## 🧠 Projects & Contributions
+<!-- ❗ START OF PROJECTS SECTION ❗ -->
 
-- 🛒 **Android Shopping App** — Kotlin • MVVM • Room DB  
-- 🤖 **Open‑Source AI Chatbot** — LangChain + FastAPI (GSSoC’25)  
-- 🛰 **Hackathon Engine** — Satellite data crawler, PDF parser, KG builder  
-- 🎨 **README Wizardry** — dynamic SVGs, skyline, marquee
+### 🚀 Major Builds
+| Project |  Tech Stack | TL;DR |
+|---------|-------------|-------|
+| **Geospatial Help-Bot (MOSDAC)** | `Python` `Streamlit` `FAISS` `Neo4j` `LLM` | Chatbot that answers satellite data questions with maps & citations. 92 % intent accuracy. |
+| **AI_ChatBot (GSSoC’25)** | `TypeScript` `LangChain` `FastAPI` | Open-source RAG bot contributed to GirlScript Summer of Code. |
+| **Client Portfolio Website** | `Next.js` `Tailwind` `TS` | Production-ready portfolio template for freelance clients. |
+| **DSA-IN-JAVA Notes** | `Java` | Concise cheat-sheets & code snippets for cracking DSA rounds. |
+
+### 💡 Mini & Hackathon Projects
+| Project | Stack | Summary |
+|---------|-------|---------|
+| **GitHack** | `Python` `Bash` | CLI that automates git commands and repo boiler-plating. |
+| **italaco-future-forge** | `TypeScript` `Next.js` | Landing page concept for a startup hackathon. |
+| **hindifinalapp** | `CSS` `HTML` | Language-learning PWA mock-up in Hindi. |
+| **culinaryAI** (fork) | `TS` `OpenAI API` | Added recipe-generation improvements to upstream project. |
+
+### 🌱 Learning / Sandbox
+| Repo | What I’m Exploring |
+|------|-------------------|
+| **nextjs-commerce** (fork) | Studying advanced e-commerce patterns in Next.js. |
+| **salesp07 profile fork** | Reverse-engineering advanced README animations. |
+
+<!-- ❗ END OF PROJECTS SECTION ❗ -->
 
 ---
 
