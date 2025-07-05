@@ -1,83 +1,99 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/galaxy-banner.gif" width="100%" alt="Galaxy background with animated comet"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F7E6&center=true&vCenter=true&width=435&lines=Android+Dev+%7C+Geo-AI+Enthusiast+%7C+GSSoC+Contributor;Hackathons+%7C+Satellite+Data+%7C+LLMs;Always+Learning+%E2%9C%A8+Never+Settling" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I’m <a href="https://github.com/AkshitTiwarii">Akshit Tiwari</a> 👋</h1>
-<h3 align="center">B.Tech • Android Dev • Geo‑AI Enthusiast • Open‑Source Contributor (GSSoC’25)</h3>
+<h1 align="center">Hi, I’m Akshit Tiwari 👋</h1>
+<h3 align="center">B.Tech | Android Developer | Geo-AI Explorer | Open Source @ GSSoC’25</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshitTiwarii&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/AkshitTiwarii?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/📫%20Reach%20Me-akshittiwarii%40gmail.com-blue" alt="Email"/>
+  <img src="https://komarev.com/ghpvc/?username=AkshitTiwarii&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/AkshitTiwarii?label=Follow&style=social" />
 </p>
 
 ---
 
 ## 🚀 Projects I'm Proud Of
 
-### 🛰️ **Geospatial Help‑Bot for Satellite Data**
-- A RAG-powered chatbot that answers satellite & meteorological queries with live maps and source citations.
-- Hybrid retrieval: FAISS + BM25 + Knowledge Graph + LLM generation.
-- Built with Python · Streamlit · Neo4j · GPT‑3.5/DeepSeek · Folium.
-- ✅ 92% intent accuracy · Avg 1.7s response time.
-- 🧠 View Demo: [![](https://img.youtube.com/vi/xDB5joiAe3Q/0.jpg)](https://youtu.be/xDB5joiAe3Q)
+### 🛰️ **Geospatial Help-Bot for Satellite Data**
+- 🤖 **RAG-powered chatbot** for MOSDAC (ISRO satellite data)
+- 🗺️ Live interactive map + PDF/HTML scraping + FAISS + Neo4j + LLM
+- 📈 92% intent accuracy · ⚡ 1.7s response time
+- 📺 [Watch Demo](https://youtu.be/xDB5joiAe3Q)
 
-### 🛠️ **Android MVVM Shopping App**
-- Offline Kotlin application using Room DB and Jetpack Architecture Components.
+[![Watch the Demo](https://img.youtube.com/vi/xDB5joiAe3Q/hqdefault.jpg)](https://youtu.be/xDB5joiAe3Q)
 
-### 🧱 **RAG Chatbot Contribution**
-- Authored an Open Source chatbot powered by LangChain & FastAPI as part of GSSoC’25.
+---
+
+### 📱 Android MVVM Shopping App
+- Offline app using Room DB & Jetpack Architecture Components
+
+### 💬 RAG Chatbot Contribution
+- Open Source chatbot using LangChain + FastAPI under GSSoC'25
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,java,cpp,js,react,androidstudio,git,docker,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,cpp,js,react,androidstudio,git,docker,linux&perline=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Akshit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshitTiwarii&theme=react-dark)
-
-
----
-
-## ✨ Fun Spotlight
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/quote-gen.gif" alt="Random inspiration" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshitTiwarii&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-_A random motivational quote loads every time you refresh your profile – because code and inspiration go hand in hand._
-
 ---
 
-## 📡 Let's Connect
+## 🌌 3D Contribution Skyline
+
+> Generated every day using GitHub Actions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshit-tiwarii"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:akshittiwarii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Skyline" />
 </p>
-
-![3D Skyline](https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ---
 
-### 🛠 One-Time Setup (Optional)
+## ✨ Random Quote Generator
+
+> A random motivational quote loads every time you refresh – because inspiration powers code too.
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-tiwarii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:akshittiwarii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## ⚙️ One-Time Setup (Optional)
 
 <details>
-<summary>⚙️ Add 3D Contribution Skyline</summary>
-  
-Add a GitHub Action in `.github/workflows/3d.yml`:
+<summary>📦 Add 3D Skyline Generator (GitHub Action)</summary>
+
 ```yaml
-name: Build 3D Skyline
+# .github/workflows/3d.yml
+name: Generate 3D Contribution Graph
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -86,4 +102,4 @@ jobs:
         with:
           github_user_name: AkshitTiwarii
           outputs: |
-            output/profile-3d-contrib/profile-night.svg
+            output/profile-3d-contrib/profile-night-rainbow.svg
