@@ -40,7 +40,8 @@
 
 ## 📊 GitHub Stats
 
-![Akshit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=dark)
+![Akshit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshitTiwarii&theme=react-dark)
+
 
 ---
 
@@ -61,7 +62,8 @@ _A random motivational quote loads every time you refresh your profile – becau
   <a href="mailto:akshittiwarii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-![Akshit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshitTiwarii&theme=react-dark)
+![3D Skyline](https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ---
 
