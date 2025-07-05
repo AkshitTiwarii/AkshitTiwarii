@@ -1,98 +1,85 @@
-<!-- Hero: animated code‑rain GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/matrix-rain.gif" width="750" alt="Matrix rain banner">
+  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/galaxy-banner.gif" width="100%" alt="Galaxy background with animated comet"/>
 </p>
 
-<h1 align="center">🚀 MOSDAC Help‑Bot &amp; Beyond</h1>
-<h3 align="center">Akshit Tiwari • B.Tech | Android Dev • Geo‑AI Enthusiast • Open‑Source @ GSSoC</h3>
+<h1 align="center">Hi, I’m <a href="https://github.com/AkshitTiwarii">Akshit Tiwari</a> 👋</h1>
+<h3 align="center">B.Tech • Android Dev • Geo‑AI Enthusiast • Open‑Source Contributor (GSSoC’25)</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-ready-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Geospatial%20Support-YES-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Response%20Time-~1.7 s-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Intent%20Accuracy-92%25-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG+KG-Enabled-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AkshitTiwarii&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/AkshitTiwarii?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/📫%20Reach%20Me-akshittiwarii%40gmail.com-blue" alt="Email"/>
 </p>
 
 ---
 
-## 🎥 Demo Walk‑through
+## 🚀 Projects I'm Proud Of
 
-[![Watch the Demo](https://img.youtube.com/vi/xDB5joiAe3Q/hqdefault.jpg)](https://youtu.be/xDB5joiAe3Q)
+### 🛰️ **Geospatial Help‑Bot for Satellite Data**
+- A RAG-powered chatbot that answers satellite & meteorological queries with live maps and source citations.
+- Hybrid retrieval: FAISS + BM25 + Knowledge Graph + LLM generation.
+- Built with Python · Streamlit · Neo4j · GPT‑3.5/DeepSeek · Folium.
+- ✅ 92% intent accuracy · Avg 1.7s response time.
+- 🧠 View Demo: [![](https://img.youtube.com/vi/xDB5joiAe3Q/0.jpg)](https://youtu.be/xDB5joiAe3Q)
+
+### 🛠️ **Android MVVM Shopping App**
+- Offline Kotlin application using Room DB and Jetpack Architecture Components.
+
+### 🧱 **RAG Chatbot Contribution**
+- Authored an Open Source chatbot powered by LangChain & FastAPI as part of GSSoC’25.
 
 ---
 
-## 🛰️ What I’m Building
-
-| Project | Stack | TL;DR |
-|---------|-------|-------|
-| **MOSDAC Geospatial Help‑Bot** | Python · Streamlit · FAISS · Neo4j · GPT‑RAG | Natural‑language assistant for India’s meteorological satellite portal with live maps & source‑linked answers. |
-| **AI ChatBot (GSSoC)** | LangChain · FastAPI | First contribution accepted under GSSoC’25. |
-| **Shopping‑List Android App** | Kotlin · MVVM · Room DB | Minimal offline app built during Android reboot. |
-| **Hackathon Tooling** | Docker · GitHub Actions | Automated data crawler + KG builder for 36‑hour sprints. |
-
----
-
-## 🧩 Tech Toolkit
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,cpp,js,react,androidstudio,git,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,kotlin,java,cpp,js,react,androidstudio,git,docker,linux&perline=7" />
 </p>
 
 ---
 
-## 📈 GitHub At a Glance
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshitTiwarii&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-### 🔭 3‑D Contribution Skyline *(auto‑refreshes daily)*  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="800">
-</p>
+![Akshit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=dark)
 
 ---
 
-## 🔄 Current Status
+## ✨ Fun Spotlight
 
-- 🎯 **Now:** Refining MOSDAC Help‑Bot for Bharatiya Antariksh Hackathon 2025 finals  
-- 📚 **Learning:** Advanced DSA in Java · Llama 3 finetuning · Jetpack Compose  
-- 🤝 **Open for:** Android collabs • Geo‑AI PoCs • Hackathon invites  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/quote-gen.gif" alt="Random inspiration" width="600"/>
+</p>
+
+_A random motivational quote loads every time you refresh your profile – because code and inspiration go hand in hand._
 
 ---
 
-## ✨ Random Inspiration
+## 📡 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quote">
+  <a href="https://www.linkedin.com/in/akshit-tiwarii"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akshittiwarii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akshit-tiwari) 
-[![Mail](https://img.shields.io/badge/Email-akshittiwarii%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:akshittiwarii@gmail.com)
-
----
+### 🛠 One-Time Setup (Optional)
 
 <details>
-<summary>🛠 ONE‑TIME SETUP NOTES (click)</summary>
-
-### 1. 3‑D Contribution Graph  
+<summary>⚙️ Add 3D Contribution Skyline</summary>
+  
+Add a GitHub Action in `.github/workflows/3d.yml`:
 ```yaml
-# .github/workflows/3d.yml
-name: Generate 3‑D graph
+name: Build 3D Skyline
 on:
-  schedule: [{ cron: '0 0 * * *' }]
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: Platane/snk/svg-only@v3
-      with:
-        github_user_name: AkshitTiwarii
-        outputs: |
-          output/profile-3d-contrib/profile-night-rainbow.svg
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AkshitTiwarii
+          outputs: |
+            output/profile-3d-contrib/profile-night.svg
