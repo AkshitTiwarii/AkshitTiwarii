@@ -53,9 +53,7 @@
 
 > Generated every day using GitHub Actions.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Skyline" />
-</p>
+![3D Skyline](https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/main/output/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -81,25 +79,3 @@
 </p>
 
 ---
-
-## ⚙️ One-Time Setup (Optional)
-
-<details>
-<summary>📦 Add 3D Skyline Generator (GitHub Action)</summary>
-
-```yaml
-# .github/workflows/3d.yml
-name: Generate 3D Contribution Graph
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AkshitTiwarii
-          outputs: |
-            output/profile-3d-contrib/profile-night-rainbow.svg
