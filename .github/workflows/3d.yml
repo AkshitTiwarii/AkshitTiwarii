@@ -1,15 +1,28 @@
-name: Generate 3D Contribution Graph
+name: Generate 3D Contribution Skyline
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Clone the repo
+        uses: actions/checkout@v3
+
+      - name: Generate Skyline SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: AkshitTiwarii
           outputs: |
             output/profile-3d-contrib/profile-night-rainbow.svg
+
+      - name: Commit the Skyline
+        run: |
+          git config user.name "AkshitTiwarii"
+          git config user.email "akshittiwarii@gmail.com"
+          git add output
+          git commit -m "🛰️ Update 3D Skyline graph"
+          git push
