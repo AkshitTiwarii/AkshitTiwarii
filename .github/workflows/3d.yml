@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,4 +32,3 @@ jobs:
           git commit -m "🛰️ Update 3D Skyline graph" || echo "Nothing to commit"
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
-
