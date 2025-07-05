@@ -9,20 +9,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone the repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Skyline SVG
+      - name: Generate Skyline
         uses: Platane/snk@v3
         with:
           github_user_name: AkshitTiwarii
           outputs: |
             output/profile-3d-contrib/profile-night-rainbow.svg
 
-      - name: Commit the Skyline
+      - name: Commit and Push SVG
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "AkshitTiwarii"
-          git config user.email "akshittiwarii@gmail.com"
-          git add output
-          git commit -m "🛰️ Update 3D Skyline graph"
-          git push
+          git config --global user.name 'AkshitTiwarii'
+          git config --global user.email 'akshittiwarii@gmail.com'
+          git add output || echo "Nothing to add"
+          git commit -m "🛰️ Update 3D Skyline graph" || echo "Nothing to commit"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main
+
