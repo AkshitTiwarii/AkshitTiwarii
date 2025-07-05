@@ -61,7 +61,7 @@ _A random motivational quote loads every time you refresh your profile – becau
   <a href="mailto:akshittiwarii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-![3D Skyline](output/profile-3d-contrib/profile-night.svg)
+![Akshit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshitTiwarii&theme=react-dark)
 
 ---
 
