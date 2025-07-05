@@ -1,34 +1,98 @@
-<h1 align="center">Hi 👋, I'm Akshit Tiwari</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshittiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="akshittiwarii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshittiwarii" alt="akshittiwarii" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/akshittiwa49285" target="blank"><img src="https://img.shields.io/twitter/follow/akshittiwa49285?logo=twitter&style=for-the-badge" alt="akshittiwa49285" /></a> </p>
-
-- 🔭 I’m currently working on **two projects, which I cannot reveal yet.**
-
-- 🌱 I’m currently learning **Android Development and DSA**
-
-- 👯 I’m looking to collaborate on **Development Projects like Web, Android and AI Chatbot related**
-
-- 💬 Ask me about **Kotlin, Java and Python**
-
-- 📫 How to reach me **akshittiwari29@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshittiwa49285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshittiwa49285" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/akshit-tiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshit-tiwarii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshittiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshittiwari" height="30" width="40" /></a>
+<!-- Hero: animated code‑rain GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/matrix-rain.gif" width="750" alt="Matrix rain banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h1 align="center">🚀 MOSDAC Help‑Bot &amp; Beyond</h1>
+<h3 align="center">Akshit Tiwari • B.Tech | Android Dev • Geo‑AI Enthusiast • Open‑Source @ GSSoC</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshittiwarii&show_icons=true&locale=en&layout=compact" alt="akshittiwarii" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-ready-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Geospatial%20Support-YES-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Response%20Time-~1.7 s-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intent%20Accuracy-92%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG+KG-Enabled-orange?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshittiwarii&show_icons=true&locale=en" alt="akshittiwarii" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshittiwarii&" alt="akshittiwarii" /></p>
+## 🎥 Demo Walk‑through
+
+[![Watch the Demo](https://img.youtube.com/vi/xDB5joiAe3Q/hqdefault.jpg)](https://youtu.be/xDB5joiAe3Q)
+
+---
+
+## 🛰️ What I’m Building
+
+| Project | Stack | TL;DR |
+|---------|-------|-------|
+| **MOSDAC Geospatial Help‑Bot** | Python · Streamlit · FAISS · Neo4j · GPT‑RAG | Natural‑language assistant for India’s meteorological satellite portal with live maps & source‑linked answers. |
+| **AI ChatBot (GSSoC)** | LangChain · FastAPI | First contribution accepted under GSSoC’25. |
+| **Shopping‑List Android App** | Kotlin · MVVM · Room DB | Minimal offline app built during Android reboot. |
+| **Hackathon Tooling** | Docker · GitHub Actions | Automated data crawler + KG builder for 36‑hour sprints. |
+
+---
+
+## 🧩 Tech Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,cpp,js,react,androidstudio,git,docker,linux&perline=10" />
+</p>
+
+---
+
+## 📈 GitHub At a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshitTiwarii&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+### 🔭 3‑D Contribution Skyline *(auto‑refreshes daily)*  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="800">
+</p>
+
+---
+
+## 🔄 Current Status
+
+- 🎯 **Now:** Refining MOSDAC Help‑Bot for Bharatiya Antariksh Hackathon 2025 finals  
+- 📚 **Learning:** Advanced DSA in Java · Llama 3 finetuning · Jetpack Compose  
+- 🤝 **Open for:** Android collabs • Geo‑AI PoCs • Hackathon invites  
+
+---
+
+## ✨ Random Inspiration
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quote">
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akshit-tiwari) 
+[![Mail](https://img.shields.io/badge/Email-akshittiwarii%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:akshittiwarii@gmail.com)
+
+---
+
+<details>
+<summary>🛠 ONE‑TIME SETUP NOTES (click)</summary>
+
+### 1. 3‑D Contribution Graph  
+```yaml
+# .github/workflows/3d.yml
+name: Generate 3‑D graph
+on:
+  schedule: [{ cron: '0 0 * * *' }]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: AkshitTiwarii
+        outputs: |
+          output/profile-3d-contrib/profile-night-rainbow.svg
