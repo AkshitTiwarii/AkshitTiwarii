@@ -150,3 +150,16 @@
 
 > “Don’t aim to fit in — aim to *break the README template*.” – Me 😎
 
+<p align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</p>
+
+
