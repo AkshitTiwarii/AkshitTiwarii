@@ -83,4 +83,12 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=AkshitTiwarii" />
+</p>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
