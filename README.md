@@ -32,11 +32,10 @@
 </p>
 
 ---
-
-<!-- 🏆 Trophy Case -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshitTiwarii&theme=onestar&no-frame=true&column=6&title=Commit,Repo,PullRequest,Issues,Stars,Followers" />
-</p>
+
+  ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true) 
+
 
 ---
 
@@ -49,11 +48,6 @@
 
 ---
 
-## 🌌 Live Contribution Skyline & Aurora Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/AkshitTiwarii/main/output/profile-3d-contrib/profile-night-rainbow.svg" width="800" />
-</p>
 
 <!-- 🌌 Aurora Wave Contribution Calendar -->
 <p align="center">
@@ -65,14 +59,6 @@
 <!-- 🎡 Neon Activity Rings -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshitTiwarii&theme=radical" />
-</p>
-
----
-
-## ✨ Random Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
