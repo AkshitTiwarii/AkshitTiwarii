@@ -1,7 +1,4 @@
-<!-- 🌠 Galactic Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshitTiwarii/assets/main/space-header.gif" width="100%" alt="Galaxy banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
 <!-- 💻 Typing Animation (wide, no cutoff) -->
 <p align="center">
@@ -19,35 +16,30 @@
 </p>
 
 
-
-## 🔧 Skills & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,cpp,js,react,androidstudio,git,docker,linux,html,css&perline=9" />
 </p>
 
-<!-- 🚀 Scrolling Tech Logos -->
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=7000&pause=1500&color=36FFB4&width=1000&lines=Python+++Kotlin+++Java+++Cpp+++Docker+++Neo4j+++FAISS+++Streamlit+++Android+Studio+++spaCy+++LangChain" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" />
 </p>
 
----
-<p align="center">
-
-  ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true) 
-
 
 ---
+
 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshitTiwarii&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshitTiwarii&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=AkshitTiwarii&data=followers,repositories,stars,commits&theme=dark" />
 </p>
 
----
 
+
+---
 
 <!-- 🌌 Aurora Wave Contribution Calendar -->
 <p align="center">
@@ -86,15 +78,9 @@
 > “Don’t aim to fit in — aim to *break the README template*.” – Me 😎
 
 <p align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AkshitTiwarii&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/AkshitTiwarii" width="600" height="300"/>
+  </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
