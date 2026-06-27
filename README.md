@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hey, I’m Akshit Tiwari </h1>
-<h3 align="center">Neurotitan · App Developer · Web Developer · Elite Coders (ECWoC25)</h3>
+<h3 align="center">ZeroCarbon · App Developer · Web Developer · Elite Coders (ECSoC'26)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkshitTiwarii&label=Profile%20Views&color=blueviolet&style=flat" />
