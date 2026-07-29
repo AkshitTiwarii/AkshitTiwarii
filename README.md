@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,nestjs,nextjs,eclipse,py,ts,react,nodejs,kotlin,docker,postgres,git&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,nestjs,nextjs,redis,eclipse,ts,react,nodejs,kotlin,docker,postgres,git&theme=dark" height="42" />
 </p>
 
 <br/><br/>
