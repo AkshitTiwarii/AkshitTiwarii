@@ -18,41 +18,31 @@ jobs:
           template: classic
           filename: github-metrics.svg
           config_timezone: Asia/Kolkata
+
+          # 1. FORCE TWO-COLUMN HORIZONTAL GRID
+          config_twocolumns: true
           
-          # Base Header & Profile Stats
-          base: header, activity, community, repositories, metadata
+          # 2. ESSENTIAL PROFILE STATS ONLY (Removed discussions & bloat)
+          base: header, activity, community, repositories
           
-          # 1. 3D Isometric Contribution Calendar
+          # 3. 3D ISOMETRIC CONTRIBUTION CALENDAR
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 2. Languages Breakdown (FIXED INVALID INPUT)
+          # 4. CLEAN LANGUAGE BREAKDOWN (Top 6 only)
           plugin_languages: yes
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 14
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
 
-          # 3. Coding Habits & Commits Activity
+          # 5. CODING HABITS & STREAKS
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 4. Starred Topics Grid (Tech Stack Icons)
+          # 6. TECH STACK ICONS GRID
           plugin_topics: yes
-          plugin_topics_limit: 20
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
-
-          # 5. Discussions Activity
-          plugin_discussions: yes
-
-          # 6. Achievements (FIXED TO EXCLUDE DEPRECATED PROJECTS)
-          plugin_achievements: yes
-          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile
-          plugin_achievements_display: compact
-
-          # 7. Fortune Cookie (You can set plugin_fortune: no if you don't want bad luck rolls!)
-          plugin_fortune: yes
