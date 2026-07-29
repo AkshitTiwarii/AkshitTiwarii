@@ -80,9 +80,7 @@
 
 <br/><br/>
 
-<!-- MINIMAL DARK ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitTiwarii&theme=github-compact&area=true&hide_border=true&bg_color=0D1117&color=00FF66&line=00FF66&point=ffffff" width="95%" />
-</p>
 
-</div>
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
